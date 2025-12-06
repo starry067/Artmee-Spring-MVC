@@ -14,7 +14,7 @@
 ## 📅 개발기간 
 2024.02.01 ~ 2024.02.23
 
-<img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/%EA%B0%9C%EB%B0%9C%EA%B8%B0%EA%B0%84.png" width="850" height="350"/>
+<img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%EA%B0%9C%EB%B0%9C%EA%B8%B0%EA%B0%84.png" width="850" height="350"/>
 
 
 <br/>
