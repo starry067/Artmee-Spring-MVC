@@ -1,0 +1,67 @@
+# 🎨 Artmee: 전시회 종합 정보 및 예약 관리 시스템
+> **솔데스크 IT 아카데미 파이널 프로젝트**
+> **프로젝트 기간:** 2024.02.01 ~ 2024.02.23 (3주)
+> **My Role:** **UI/UX 총괄(Sole Designer), Backend(공지/게시판), PM**
+
+## 💻 프로젝트 소개
+**"전시회의 감동을 예약부터 후기까지, All-in-One 플랫폼"**
+
+기존 전시회 정보 사이트의 '파편화된 정보'와 '커뮤니티 부재' 문제를 해결하기 위해 기획된 웹 서비스입니다.
+단순 예매 기능을 넘어, **사용자 경험(UX)을 최우선으로 고려한 직관적인 UI**와 **실시간 소통(Ajax 댓글)** 기능을 구현하여 플랫폼의 완성도를 높였습니다.
+
+<br/>
+
+## 👨‍💻 Key Contributions (핵심 기여도)
+**팀 내 유일한 UI/UX 설계자이자 핵심 기능을 구현한 개발자**로서 기획부터 개발, 최종 발표까지 주도했습니다.
+
+### 1. 🎨 UI/UX Design & Architecture (기여도 100%)
+- **Figma를 활용한 웹/모바일 화면 설계 및 프로토타입 제작 전담**
+- Happy Path뿐만 아니라 예외 케이스(Error Case)까지 고려한 **총 60장 이상의 상세 화면 설계**
+- 사용자 동선을 고려한 예매 프로세스 최적화 및 디자인 시스템 구축
+> [![Figma](https://img.shields.io/badge/Figma-View_Full_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/87VN2UQwmssNYxS3uuSNIZ/%EC%86%94%EB%8D%B0%EC%8A%A4%ED%81%AC-3%EC%A1%B0-2%EC%B0%A8?t=YMoO6JZGgRDkG1Ux-0)
+> *(👆 위 배너를 클릭하면 제가 직접 설계한 전체 기획/디자인 화면을 확인하실 수 있습니다.)*
+
+### 2. 📢 공지사항 및 게시판 시스템 (기술적 심화)
+- **공지사항:** 관리자(Admin) 권한 제어 로직 및 중요 공지 상단 고정(Pin) 기능 구현
+- **게시판(Community):**
+    - **Ajax 비동기 통신 도입:** 댓글 작성/삭제 시 전체 페이지 새로고침(Reload) 없이 데이터만 부분 업데이트되도록 구현하여 **UX 대폭 개선**
+    - MyBatis 동적 쿼리(`<if>`, `<choose>`)를 활용한 다중 조건 검색 최적화
+
+<br/>
+
+## 👥 Team Members & Roles
+| **[본인 이름/ID] (Me)** | [팀원1 ID] | [팀원2 ID] | [팀원3 ID] |
+| :---: | :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/118183105?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/101092238?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/55232668?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/94101325?v=4" width="100"/> |
+| **UI/UX 총괄 (100%)**<br>공지사항/게시판(Ajax)<br>PPT/발표 자료 제작 | 전시회 등록<br>배너 관리 | DB 설계<br>회원가입 | 결제/장바구니<br>아카이브 |
+
+<br/>
+
+## ⚙️ Development Environment
+### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
+
+### Frontend & Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+<br/>
+
+## 🚀 Trouble Shooting (문제 해결 경험)
+### Issue: 댓글 등록 시 화면 깜빡임으로 인한 사용자 경험 저하
+- **Problem:** 초기 구현 시 Form Submit 방식을 사용하여, 댓글 하나를 달 때마다 전체 페이지가 새로고침되고 스크롤이 최상단으로 초기화되는 불편함 발생.
+- **Solution:** **jQuery Ajax**를 활용한 비동기 통신 방식으로 리팩토링.
+    - Controller에서 View 대신 JSON 데이터를 반환하도록 `@ResponseBody` 적용.
+    - 성공(Success) 콜백 함수에서 DOM을 직접 조작하여 댓글 목록만 부분 렌더링.
+- **Result:** 페이지 이동 없이 즉각적인 피드백을 제공하는 **SPA(Single Page Application)와 유사한 부드러운 사용자 경험** 확보.
+
+<br/>
+
+## 🖥 화면 구성 (UI Design by Me)
+| 메인 화면 | 로그인/회원가입 |
+| :---: | :---: |
+| <img src="본인_이미지경로_입력" width="100%"/> | <img src="본인_이미지경로_입력" width="100%"/> |
+
+| 게시판/공지사항 (Ajax) | 마이페이지 |
+| :---: | :---: |
+| <img src="본인_이미지경로_입력" width="100%"/> | <img src="본인_이미지경로_입력" width="100%"/> |
