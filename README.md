@@ -11,29 +11,39 @@
 
 <br/>
 
+## 👥 Team Members & Roles
+| **[@starry067](https://github.com/starry067) (Me)** | [@ddooing](https://github.com/ddooing) | [@Timtory](https://github.com/Timtory) | [@pore133](https://github.com/pore133) |
+| :---: | :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/55232668?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/118183105?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/101092238?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/94101325?v=4" width="100"/> |
+| **UI/UX 총괄 (100%)**<br>공지사항/게시판(Ajax)<br>프론트 디자인<br>PPT 디자인 제작 | 결제/장바구니<br>결제 내역 관리<br>아카이브 | 전시회 등록<br>배너 관리<br>(관리자 페이지) | 로그인/회원가입<br>회원 관리<br>(관리자 페이지) |
+
+### 🤝 Common Tasks (팀 공통 기여)
+- **Database Modeling:** Oracle DB 설계 및 정규화 과정 공동 참여
+- **Project Presentation:** 최종 발표 시연 및 질의응답 공동 진행
+
+<br/>
+
 ## 👨‍💻 Key Contributions (핵심 기여도)
-**팀 내 유일한 UI/UX 설계자이자 핵심 기능을 구현한 개발자**로서 기획부터 개발, 문서화(PPT)까지 프로젝트 전반을 주도했습니다.
+**팀 내 유일한 UI/UX 설계자이자 핵심 기능을 구현한 개발자**로서 기획부터 개발까지 프로젝트 전반을 주도했습니다.
 
 ### 1. 🎨 UI/UX Design & Architecture (기여도 100%)
 - **Figma를 활용한 웹 전체 화면 설계 및 프로토타입 제작 전담 (60장 이상)**
 - Happy Path뿐만 아니라 예외 케이스(Error Case)까지 고려한 상세 화면 설계
 - 사용자 동선을 고려한 예매 프로세스 최적화 및 디자인 시스템 구축
+
+#### 📐 Design Overview (전체 설계 흐름)
+> **직접 설계한 60+ 페이지 분량의 전체 와이어프레임 및 디자인 구조입니다.**
+> <br/>
+> <img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C_%EC%84%A4%EA%B3%84.png" width="100%" title="Click to view original"/>
+> <br/>
 > [![Figma](https://img.shields.io/badge/Figma-View_Full_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/87VN2UQwmssNYxS3uuSNIZ/%EC%86%94%EB%8D%B0%EC%8A%A4%ED%81%AC-3%EC%A1%B0-2%EC%B0%A8?t=YMoO6JZGgRDkG1Ux-0)
-> *(👆 위 배너를 클릭하면 제가 직접 설계한 전체 기획/디자인 화면을 확인하실 수 있습니다.)*
+> *(👆 위 배너를 클릭하면 Figma에서 상세 화면을 확인하실 수 있습니다.)*
 
 ### 2. 📢 공지사항 및 게시판 시스템 (기술적 심화)
 - **공지사항:** 관리자(Admin) 권한 제어 로직 및 중요 공지 상단 고정(Pin) 기능 구현
 - **게시판(Community):**
     - **Ajax 비동기 통신 도입:** 댓글 작성/삭제 시 전체 페이지 새로고침(Reload) 없이 데이터만 부분 업데이트되도록 구현하여 **UX 대폭 개선**
     - MyBatis 동적 쿼리(`<if>`, `<choose>`)를 활용한 다중 조건 검색(제목, 내용, 작성자) 최적화
-
-<br/>
-
-## 👥 Team Members & Roles
-| **[@starry067](https://github.com/starry067) (Me)** | [@ddooing](https://github.com/ddooing) | [@Timtory](https://github.com/Timtory) | [@pore133](https://github.com/pore133) |
-| :---: | :---: | :---: | :---: |
-| <img src="https://avatars.githubusercontent.com/u/55232668?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/118183105?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/101092238?v=4" width="100"/> | <img src="https://avatars.githubusercontent.com/u/94101325?v=4" width="100"/> |
-| **UI/UX 총괄 (100%)**<br>공지사항/게시판(Ajax)<br>프론트 디자인<br>PPT/발표 총괄 | 결제/장바구니<br>결제 내역 관리<br>아카이브 | 전시회 등록<br>배너 관리<br>(관리자 페이지) | 로그인/회원가입<br>DB 설계 참여<br>(관리자 페이지) |
 
 <br/>
 
