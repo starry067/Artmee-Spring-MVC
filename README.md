@@ -37,6 +37,7 @@ pore133 - 로그인, 회원가입 ( 관리자 페이지 포함) <br/>
 ### 🎨 UI/UX Design
 > **기획 및 디자인 참여**
 > Figma를 활용하여 와이어프레임 및 프로토타입을 직접 설계했습니다.
+> 
 > [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/87VN2UQwmssNYxS3uuSNIZ/%EC%86%94%EB%8D%B0%EC%8A%A4%ED%81%AC-3%EC%A1%B0-2%EC%B0%A8?t=YMoO6JZGgRDkG1Ux-0)
 > 👆 **위 버튼을 누르면 기획서를 확인하실 수 있습니다.**
 
