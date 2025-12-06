@@ -29,7 +29,7 @@
 |[@ddooing](https://github.com/ddooing) |[@Timtory](https://github.com/Timtory)|[@starry067](https://github.com/starry067)|[@pore133](https://github.com/pore133)|
 
 ddooing - 결제 기능 ,장바구니 기능 , 결제 내역 관리 기능, 아카이브 <br/>
-starry067 - 게시판, 공지사항 기능 ( 관리자 페이지 포함), 프론트 디자인 설계  <br/>
+starry067 - 게시판, 공지사항 기능 ( 관리자 페이지 포함), 프론트 디자인 설계, ppt 제작  <br/>
 Timtory - 전시회 등록 신청, 배너 신청 ( 관리자 페이지 포함) <br/>
 pore133 - 로그인, 회원가입 ( 관리자 페이지 포함) <br/>
 모두 - DB 설계
@@ -57,42 +57,42 @@ Api - Toss Payments Api, Kakao Map Api
 ## 🖱 주요 기능 소개 
 
 
-<img src="https://github.com/ddooing/soldesk_artme/assets/118183105/fdc053d9-a7c8-4fcc-a59f-180fb88775f9" />
+<img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%EC%95%84%ED%8A%B8%EB%AF%B8_%EB%A9%94%EC%9D%B8.png" />
 
 
 
-<img src="https://github.com/ddooing/soldesk_artme/assets/118183105/2f0d8792-e5b7-4f0b-8c25-cea9d57f6ccb"/>
+<img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%EC%95%84%ED%8A%B8%EB%AF%B8_%EB%A1%9C%EA%B7%B8%EC%9D%B8_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png"/>
 
 
 
-<img src="https://github.com/ddooing/soldesk_artme/assets/118183105/5f71e774-1f0d-441c-b0ca-6a592fc7df1d"/>
+<img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%EC%95%84%ED%8A%B8%EB%AF%B8_%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80.png"/>
 
 
 
-<img src="https://github.com/ddooing/soldesk_artme/assets/118183105/330fd766-302d-49a3-9d98-bf4ca79cda60"/>
+<img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%EC%95%84%ED%8A%B8%EB%AF%B8_%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%802.png"/>
 
 
 
-<img src="https://github.com/ddooing/soldesk_artme/assets/118183105/405d6d3d-3943-4cb5-8f54-dca2519aaae2"/>
+<img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%EC%95%84%ED%8A%B8%EB%AF%B8_%EC%A0%84%EC%8B%9C%ED%9A%8C.png"/>
 
 
 
-<img src="https://github.com/ddooing/soldesk_artme/assets/118183105/76c7fbff-1ec8-4ffa-9df4-ff828601c4b5"/>
+<img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%EC%95%84%ED%8A%B8%EB%AF%B8_%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png"/>
 
 
 
-<img src="https://github.com/ddooing/soldesk_artme/assets/118183105/1d2781bb-0446-4842-9b65-39417dd8b0e9"/>
+<img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%EC%95%84%ED%8A%B8%EB%AF%B8_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.png"/>
 
 
 
-<img src="https://github.com/ddooing/soldesk_artme/assets/118183105/4515b4ee-1c2e-4bf6-ba5c-502cf3063e9b"/>
+<img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%EC%95%84%ED%8A%B8%EB%AF%B8_%EC%A0%84%EC%8B%9C%ED%9A%8C%EC%8B%A0%EC%B2%AD.png"/>
 
 
 
-<img src="https://github.com/ddooing/soldesk_artme/assets/118183105/2f66632a-9f92-4ee1-85af-5952c6b14b5b"/>
+<img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%EC%95%84%ED%8A%B8%EB%AF%B8_%EB%B0%B0%EB%84%88%EC%8B%A0%EC%B2%AD.png"/>
 
 
 
-<img src="https://github.com/ddooing/soldesk_artme/assets/118183105/c63ec5b7-157e-4b6b-bd76-f0c5d8e0cef8"/>
+<img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%EC%95%84%ED%8A%B8%EB%AF%B8_%EA%B4%80%EB%A6%AC%EC%9E%90%ED%8E%98%EC%9D%B4%EC%A7%80.png"/>
 
 <br/><br/>
