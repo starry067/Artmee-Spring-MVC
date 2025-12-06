@@ -1,7 +1,7 @@
 # 🎨 Artmee: 전시회 종합 정보 및 예약 관리 시스템
 > **솔데스크 IT 아카데미 파이널 프로젝트**
 > **개발 기간:** 2024.02.01 ~ 2024.02.23 (약 3주)<br/>
-> **My Role:** **UI/UX 총괄(Sole Designer), Frontend & Backend Core, PM**
+> **My Role:** UI/UX 총괄(Sole Designer), Frontend & Backend Core, PM
 
 ## 💻 프로젝트 소개
 **"파편화된 전시 정보를 통합하고, 커뮤니티 기능을 더하다"**
