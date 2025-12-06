@@ -16,11 +16,6 @@
 
 <img src="https://github.com/ddooing/soldesk_artme/assets/118183105/4fe106c0-1289-4365-a2c8-61f1eb6aa09c" width="850" height="350"/>
 
-<br/><br/>
-💥  <b font-size="20"> 24.03 ~  서버 업로드 후, 유지보수 중 
-<br/><br/>
-💥  <b font-size="20"> 25.07    NAS 문제로 해결 중 
-<br/><br/>
 
 <br/>
 <b> 관리자 아이디& 비밀번호 :asdf</b>
@@ -34,9 +29,9 @@
 |[@ddooing](https://github.com/ddooing) |[@Timtory](https://github.com/Timtory)|[@starry067](https://github.com/starry067)|[@pore133](https://github.com/pore133)|
 
 ddooing - 결제 기능 ,장바구니 기능 , 결제 내역 관리 기능, 아카이브 <br/>
-starry067 - 게시판 기능 ( 관리자 페이지 포함), 프론트 디자인 설계  <br/>
+starry067 - 게시판, 공지사항 기능 ( 관리자 페이지 포함), 프론트 디자인 설계  <br/>
 Timtory - 전시회 등록 신청, 배너 신청 ( 관리자 페이지 포함) <br/>
-pore133 - 공지사항 기능, 로그인, 회원가입 ( 관리자 페이지 포함) <br/>
+pore133 - 로그인, 회원가입 ( 관리자 페이지 포함) <br/>
 모두 - DB 설계
 
 ### 🎨 UI/UX Design
