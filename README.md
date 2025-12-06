@@ -1,6 +1,5 @@
 # 🎨 Artmee: 전시회 종합 정보 및 예약 관리 시스템
-> **솔데스크 IT 아카데미 파이널 프로젝트**
-> **개발 기간:** 2024.02.01 ~ 2024.02.23 (약 3주)<br/>
+> **솔데스크 IT 아카데미 파이널 프로젝트**<br/>
 > **My Role:** UI/UX 총괄(Sole Designer), Frontend & Backend Core, PM
 
 ## 💻 프로젝트 소개
@@ -8,6 +7,13 @@
 
 기존 전시회 관련 사이트의 **1) 분산된 정보, 2) 커뮤니티 부재, 3) 복잡한 예매 동선** 문제를 해결하기 위해 기획된 **All-in-One 전시회 플랫폼**입니다.<br/>
 단순 정보 제공을 넘어, **사용자 경험(UX)을 최우선으로 고려한 직관적인 UI 설계**와 **Ajax 기반의 실시간 소통(댓글/후기)** 기능을 구현하여 플랫폼의 완성도를 높였습니다.
+
+<br/>
+
+## 📅 Development Period (개발 기간)
+### **2024.02.01 ~ 2024.02.23 (약 3주)**
+* **3주라는 짧은 기간 동안 기획부터 배포까지 완수**하기 위해, Figma를 활용한 철저한 사전 설계로 개발 시행착오를 최소화했습니다.
+> <img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/%EA%B0%9C%EB%B0%9C%EA%B8%B0%EA%B0%84.png?raw=true" width="100%" title="Click to view original"/>
 
 <br/>
 
