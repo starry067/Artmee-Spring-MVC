@@ -67,6 +67,14 @@
 
 <br/>
 
+## 💾 ERD (Entity Relationship Diagram)
+> **팀원들과 함께 설계한 Oracle DB 정규화 모델 및 테이블 관계도입니다.**
+> <br/>
+> <img src="https://github.com/starry067/Artmee-Spring-MVC/blob/main/docs/image/db_chart.png?raw=true" width="100%" title="DB ERD Chart"/>
+
+<br/>
+
+
 ## 🚀 Trouble Shooting (문제 해결 경험)
 ### Issue: 댓글 등록 시 화면 깜빡임으로 인한 사용자 경험 저하
 - **Problem:** 초기 구현 시 Form Submit 방식을 사용하여, 댓글 하나를 달 때마다 전체 페이지가 새로고침되고 스크롤이 초기화되는 불편함 발생.
